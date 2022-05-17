@@ -2,16 +2,17 @@
     <string name="app_name">Proiect Android</string>
     <string name="text_prima_pg">Utilizati camera</string>
     <string name="buton_prima_pg">Camera</string>
-    <string name="text2_prima_pg">Vedeti pozele facute</string>
-    <string name="buton2_prima_pg">Poze</string>
+    <string name="text2_prima_pg">Mergeti la RecyclerView</string>
+    <string name="buton2_prima_pg">RecyclerView</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="imagine_camera">Imagine</string>
     <string name="buton_camera">Captureaza imagine</string>
     <string name="buton_galerie">Salveaza in galerie</string>
+    <string name="buton_share">Share text</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="aboutTitlu">Despre aplicatie</string>
-    <string name="about">Aceasta aplicatie realizeaza o fotografie in fragmentul "Camera" si o incarca in text view-ul din layout. Aceasta se poate salva in telefon sau share-ui.</string>
+    <string name="about">Aceasta aplicatie realizeaza o fotografie in fragmentul "Camera" si o incarca in text view-ul din layout. Textul about se poate share-ui.</string>
     <string name="home">Acasa</string>
 
 </resources>

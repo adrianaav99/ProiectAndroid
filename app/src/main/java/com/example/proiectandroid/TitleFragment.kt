@@ -28,6 +28,9 @@ class TitleFragment : Fragment() {
         binding.button.setOnClickListener { view : View ->
             view.findNavController().navigate(R.id.action_titleFragment_to_camera)
         }
+        binding.button2.setOnClickListener { view: View->
+            view.findNavController().navigate(R.id.action_titleFragment_to_recycler)
+        }
         return binding.root
     }
 

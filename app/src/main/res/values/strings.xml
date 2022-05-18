@@ -12,7 +12,9 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="aboutTitlu">Despre aplicatie</string>
-    <string name="about">Aceasta aplicatie realizeaza o fotografie in fragmentul "Camera" si o incarca in text view-ul din layout. Textul about se poate share-ui.</string>
+    <string name="about">Aceasta aplicatie realizeaza o fotografie in fragmentul "Camera" si o incarca in text view-ul din layout. Textul about se poate share-ui. Mai contine un RecyclerView cu titluri de stiri, cu functie de cautare.</string>
     <string name="home">Acasa</string>
+    <string name="recycler">RecyclerView</string>
+    <string name="video">Video</string>
 
 </resources>

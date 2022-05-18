@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Adriana/AndroidStudioProjects/ProiectAndroid/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.141" />
+        <entry key="..\:/Users/Adriana/AndroidStudioProjects/ProiectAndroid/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.135" />
+        <entry key="..\:/Users/Adriana/AndroidStudioProjects/ProiectAndroid/app/src/main/res/drawable/ic_launcher_background.xml" value="0.141" />
+        <entry key="..\:/Users/Adriana/AndroidStudioProjects/ProiectAndroid/app/src/main/res/layout-land/activity_main.xml" value="0.14895833333333333" />
+        <entry key="..\:/Users/Adriana/AndroidStudioProjects/ProiectAndroid/app/src/main/res/layout-land/fragment_title.xml" value="0.2" />
         <entry key="..\:/Users/Adriana/AndroidStudioProjects/ProiectAndroid/app/src/main/res/layout/activity_main.xml" value="0.2359375" />
         <entry key="..\:/Users/Adriana/AndroidStudioProjects/ProiectAndroid/app/src/main/res/layout/fragment_about.xml" value="0.25" />
         <entry key="..\:/Users/Adriana/AndroidStudioProjects/ProiectAndroid/app/src/main/res/layout/fragment_camera.xml" value="0.25" />
@@ -10,6 +15,9 @@
         <entry key="..\:/Users/Adriana/AndroidStudioProjects/ProiectAndroid/app/src/main/res/layout/fragment_recycler.xml" value="0.264" />
         <entry key="..\:/Users/Adriana/AndroidStudioProjects/ProiectAndroid/app/src/main/res/layout/fragment_recycler_view.xml" value="0.264" />
         <entry key="..\:/Users/Adriana/AndroidStudioProjects/ProiectAndroid/app/src/main/res/layout/fragment_title.xml" value="0.264" />
+        <entry key="..\:/Users/Adriana/AndroidStudioProjects/ProiectAndroid/app/src/main/res/layout/fragment_video.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/Adriana/AndroidStudioProjects/ProiectAndroid/app/src/main/res/layout/list_item.xml" value="0.264" />
+        <entry key="..\:/Users/Adriana/AndroidStudioProjects/ProiectAndroid/app/src/main/res/menu/menu_item.xml" value="0.24615384615384617" />
         <entry key="..\:/Users/Adriana/AndroidStudioProjects/ProiectAndroid/app/src/main/res/menu/navdrawer_menu.xml" value="0.25" />
       </map>
     </option>

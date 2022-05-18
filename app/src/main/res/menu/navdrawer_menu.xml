@@ -8,6 +8,13 @@
         android:id="@+id/camera"
         android:title="@string/text_prima_pg" />
     <item
+        android:id="@+id/recycler"
+        android:title="@string/recycler" />
+    <item
+        android:id="@+id/videoFragment"
+        android:title="@string/video" />
+
+    <item
         android:id="@+id/aboutFragment"
         android:title="@string/aboutTitlu" />
 </menu>

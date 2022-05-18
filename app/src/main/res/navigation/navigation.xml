@@ -13,6 +13,9 @@
         <action
             android:id="@+id/action_titleFragment_to_camera"
             app:destination="@id/camera" />
+        <action
+            android:id="@+id/action_titleFragment_to_recycler"
+            app:destination="@id/recycler" />
     </fragment>
     <fragment
         android:id="@+id/camera"
@@ -23,4 +26,14 @@
         android:id="@+id/aboutFragment"
         android:name="com.example.proiectandroid.AboutFragment"
         android:label="Despre" />
+    <fragment
+        android:id="@+id/recycler"
+        android:name="com.example.proiectandroid.Recycler"
+        android:label="RecyclerView"
+        tools:layout="@layout/fragment_recycler_view" />
+    <fragment
+        android:id="@+id/videoFragment"
+        android:name="com.example.proiectandroid.VideoFragment"
+        android:label="Video"
+        tools:layout="@layout/fragment_video" />
 </navigation>
